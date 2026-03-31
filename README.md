@@ -1,5 +1,5 @@
 # :factory: GE - GO ENTERPRISE
-Mini-ERP com arquitetura MVC
+Mini-ERP (Sistema de Gestão Empresarial) com arquitetura MVC
 
 :globe_with_meridians: Back-End: Java e Spring Boot \
 :file_folder: Banco de Dados: PostegrepSQL 
